@@ -1,16 +1,9 @@
-# Excel VBA Portfolio
+Core VBA fundamentals and syntax examples.
 
-This repository contains Excel VBA projects created while learning and practicing VBA.
-Each folder focuses on a specific area such as automation, data cleaning, and user forms.
+**Topics covered:**
+- Variables and data types
+- If statements and Select Case
+- Loops (For, Do While, For Each)
+- Arrays and collections
 
-## Skills Demonstrated
-- VBA automation and macros
-- Excel data cleaning
-- UserForms and validation
-- Modular and reusable VBA code
-- Debugging and error handling
-
-## Tools
-- Microsoft Excel
-- VBA Editor
-- Git & GitHub
+These files focus on understanding VBA logic and syntax in isolation.
