@@ -1,9 +1,9 @@
-Core VBA fundamentals and syntax examples.
+This repository contains Excel VBA projects created while learning and practicing VBA.
+The projects are organized by topic to demonstrate core VBA fundamentals, real-world
+automation, data cleaning, and reusable VBA components.
 
-**Topics covered:**
-- Variables and data types
-- If statements and Select Case
-- Loops (For, Do While, For Each)
-- Arrays and collections
-
-These files focus on understanding VBA logic and syntax in isolation.
+The goal of this repository is to showcase:
+- Clear VBA fundamentals
+- Practical Excel automation
+- Clean, readable, and well-structured code
+- Progressive learning and improvement over time
